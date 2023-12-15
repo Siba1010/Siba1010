@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sibaprasad Choudhury
-- 👀 I’m interested in web designing and the machine learning.
+- 👀 I’m interested in Data Analytics, AI and  machine learning.
 - 🌱 I’m currently learning as MCA in KIIT University
 - 💞️ I’m looking to collaborate on the machinelearing projects.
 - 📫 You can reach me on the Email id ,spchoudhury1010@gmail.com
