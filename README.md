@@ -1,4 +1,4 @@
-<h1 align="center">Hi., I'm Sibaprasad</h1>
+<h1 align="center">Hi, I'm Sibaprasad</h1>
 <h3 align="center">Embarking on the AI journey with a passion for innovation and problem-solving.</h3>
 
 - 🌱 I’m currently learning as MCA in KIIT University
