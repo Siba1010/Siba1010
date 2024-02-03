@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sibaprasad-choudhury-5a228718a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sibaprasad-choudhury-5a228718a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sibaprasad_choudhury_?igshid=MTNiYzNiMzkwZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sibaprasad_choudhury_?igshid=MTNiYzNiMzkwZA==" height="30" width="40" /></a>
+<a href="https://sibaprasadchoudhury.netlify.app" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/009/317/249/original/personal-website-icon-logo-illustration-portfolio-symbol-template-for-graphic-and-web-design-collection-free-vector.jpg" alt="sibaprasadchoudhury.netlify.app" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
